@@ -1,0 +1,20 @@
+<template>
+    <div class="weekfavorite">
+        <a href="https://act.mogujie.com/zzlx67">
+            <img src="~assets/img/home/recommend_bg.png" alt="">
+        </a>
+    </div>
+</template>
+<script>
+export default {
+ 
+}
+</script>
+<style>
+.weekfavorite{
+    padding: 0 10px;
+}
+.weekfavorite img{
+    width: 100%;
+}
+</style>
